@@ -1,0 +1,22 @@
+.tractor-title{
+    text-align: -webkit-center;
+    padding-right: 70px;
+}
+
+.sign-out-btn {
+    background-color: white;
+    font-size: medium;
+}
+
+.card {
+    height: 350px;
+
+}
+
+.label {
+    margin: 10px;
+}
+
+.conflict {
+    position: relative;
+}

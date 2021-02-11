@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="491.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="me.controllers.FXMLControllerAdmin">
+   <children>
+      <Label layoutX="6.0" prefHeight="54.0" prefWidth="258.0" text="Membrii firmei">
+         <font>
+            <Font size="19.0" />
+         </font>
+      </Label>
+      <Button fx:id="logOut" layoutX="520.0" layoutY="1.0" mnemonicParsing="false" prefHeight="37.0" prefWidth="80.0" text="Log out" />
+      <TableView fx:id="tabel" layoutX="6.0" layoutY="94.0" prefHeight="397.0" prefWidth="412.0">
+        <columns>
+          <TableColumn fx:id="coloanaNume" prefWidth="168.800048828125" text="Nume" />
+          <TableColumn fx:id="coloanaUsername" prefWidth="241.5999755859375" text="Username" />
+        </columns>
+      </TableView>
+      <Button fx:id="adauga" layoutX="468.0" layoutY="169.0" mnemonicParsing="false" prefHeight="45.0" prefWidth="90.0" text="Adauga user" />
+      <Button fx:id="modifica" layoutX="469.0" layoutY="370.0" mnemonicParsing="false" prefHeight="46.0" prefWidth="88.0" text="Modifica user" />
+      <Button fx:id="sterge" layoutX="468.0" layoutY="269.0" mnemonicParsing="false" prefHeight="46.0" prefWidth="90.0" text="Sterge user" />
+      <Label layoutX="6.0" layoutY="54.0" text="Cauta">
+         <font>
+            <Font size="17.0" />
+         </font>
+      </Label>
+      <TextField fx:id="cauta" layoutX="70.0" layoutY="55.0" />
+   </children>
+</AnchorPane>

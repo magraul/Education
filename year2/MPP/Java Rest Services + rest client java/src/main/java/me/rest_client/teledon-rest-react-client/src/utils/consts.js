@@ -1,0 +1,1 @@
+export const TELEDON_CAZURI_BASE_URL='http://localhost:8080/teledon/cazuri';

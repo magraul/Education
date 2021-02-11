@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane prefHeight="285.0" prefWidth="468.0" style="-fx-background-color: white;" xmlns="http://javafx.com/javafx/10.0.2-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="me.controllers.FXMLControllerOra">
+   <children>
+      <TextField fx:id="angajatT" layoutX="169.0" layoutY="64.0" editable="false"/>
+      <Label layoutX="96.0" layoutY="67.0" prefHeight="18.0" prefWidth="52.0" text="Angajat">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Label>
+      <Label layoutX="96.0" layoutY="116.0" text="Ora sosirii">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Label>
+      <TextField fx:id="ora" layoutX="169.0" layoutY="113.0" />
+      <Button fx:id="prezent" layoutX="208.0" layoutY="162.0" mnemonicParsing="false" text="Prezent" />
+   </children>
+</AnchorPane>
