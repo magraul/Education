@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean name="propertiesDB" class="org.springframework.beans.factory.config.PropertiesFactoryBean">
+        <property name="properties">
+            <value>
+                jdbc.url=jdbc:postgresql://localhost:1234/entitati
+                jdbc.user=postgres
+                jdbc.pass=magraul
+            </value>
+        </property>
+    </bean>
+
+    <bean id="angajatiRepo" class="me.repositories.AngajatiDBRepository">
+        <constructor-arg ref="propertiesDB"> </constructor-arg>
+    </bean>
+
+    <bean id="cazuriRepo" class="me.repositories.CazuriDBRepository">
+        <constructor-arg ref="propertiesDB"> </constructor-arg>
+    </bean>
+
+    <bean id="donatiiRepo" class="me.repositories.DonatiiDBRepository">
+        <constructor-arg ref="propertiesDB"> </constructor-arg>
+    </bean>
+
+    <bean id="donatoriRepo" class="me.repositories.DonatoriDBRepository">
+        <constructor-arg ref="propertiesDB"> </constructor-arg>
+    </bean>
+
+    <bean id="cazuriValidator" class="me.validators.ValidatorCazuri">
+
+    </bean>
+
+    <bean id="donatiiValidator" class="me.validators.ValidatorDonatii">
+
+    </bean>
+
+    <bean id="donatoriValidator" class="me.validators.ValidatorDonatori">
+
+    </bean>
+
+    <bean id="service" class="me.teledonServer.Service">
+        <constructor-arg index="0" ref="angajatiRepo"/>
+        <constructor-arg index="1" ref="cazuriRepo"/>
+        <constructor-arg index="2" ref="donatiiRepo"/>
+        <constructor-arg index="3" ref="donatoriRepo"/>
+        <constructor-arg index="4" ref="cazuriValidator"/>
+        <constructor-arg index="5" ref="donatiiValidator"/>
+        <constructor-arg index="6" ref="donatoriValidator"/>
+    </bean>
+
+    <bean class="org.springframework.remoting.rmi.RmiServiceExporter">
+        <property name="serviceName" value="Teledon"/>
+        <property name="service" ref="service"/>
+        <property name="serviceInterface" value="me.teledonServices.ITeledonServices"/>
+        <property name="servicePort" value="1099"/>
+    </bean>
+
+
+</beans>

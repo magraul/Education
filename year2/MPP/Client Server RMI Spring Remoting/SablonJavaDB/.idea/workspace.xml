@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e0305327-b075-4175-90dd-fe8f917786a5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Lab3Final" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Lab3Final" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Arquillian JUnit Test Class" />
+        <option value="JUnit5 Test Class" />
+        <option value="CSS File" />
+        <option value="FxmlFile" />
+        <option value="Tag Library Descriptor" />
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="spring-beans.schema" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="delegateBuildToMaven" value="true" />
+    <option name="jreName" value="#JAVA_HOME" />
+  </component>
+  <component name="ProjectId" id="1SsNCeDPB2JokyP8n1zCmmQrS8K" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="Downloaded.Files.Path" value="E:\An2 Sem 1\MAP\Lab3Final\src\test" />
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="ignore.preview.features.used" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../tema3_java_c#_socketuri_rpc_protocol/jajva/SocketuriThrift" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\An2 sem 2\MPP\SablonDBConfigLogging\SablonJavaDB\build\resources\main" />
+      <recent name="E:\An2 sem 2\MPP\SablonDBConfigLogging\SablonJavaDB\build\resources" />
+      <recent name="E:\An2 sem 2\MPP\SablonDBConfigLogging\SablonJavaDB\build" />
+      <recent name="E:\An2 sem 2\MPP\SablonDBConfigLogging\SablonJavaDB\src\main\java" />
+      <recent name="E:\An2 sem 2\MPP\SablonDBConfigLogging\SablonJavaDB\src\main" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="me.teledonServer.utils" />
+      <recent name="me.networking.objectProtocol" />
+      <recent name="me.teledonServices" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="me.client" />
+      <recent name="me.networking.objectProtocol" />
+      <recent name="me.entities" />
+      <recent name="me" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Mainn">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="me.Main" />
+      <module name="Lab3Final.main" />
+      <option name="VM_PARAMETERS" value="--module-path C:\Java\javafx-sdk-13.0.1\lib --add-modules javafx.controls,javafx.fxml --add-exports javafx.base/com.sun.javafx.event=ALL-UNNAMED" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="me.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Mainn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="me.client.Mainn" />
+      <module name="Lab3Final.main" />
+      <option name="VM_PARAMETERS" value="--module-path C:\Java\javafx-sdk-13.0.1\lib --add-modules javafx.controls,javafx.fxml --add-exports javafx.base/com.sun.javafx.event=ALL-UNNAMED" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="me.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StartServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="me.teledonServer.StartServer" />
+      <module name="Lab3Final.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="me.teledonServer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AnUniversitarTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;AnUniversitarTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="SablonJavaDB [run]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="run" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Mainn" />
+      <item itemvalue="Application.StartServer" />
+      <item itemvalue="Gradle.AnUniversitarTest" />
+      <item itemvalue="Gradle.SablonJavaDB [run]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StartServer" />
+        <item itemvalue="Gradle.SablonJavaDB [run]" />
+        <item itemvalue="Application.Mainn" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Gradle.AnUniversitarTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e0305327-b075-4175-90dd-fe8f917786a5" name="Default Changelist" comment="" />
+      <created>1572348217002</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572348217002</updated>
+      <workItem from="1572348221049" duration="11407000" />
+      <workItem from="1572361321103" duration="894000" />
+      <workItem from="1572374021245" duration="3726000" />
+      <workItem from="1572424264045" duration="208000" />
+      <workItem from="1572424709590" duration="112000" />
+      <workItem from="1572470543934" duration="297000" />
+      <workItem from="1572471527550" duration="3566000" />
+      <workItem from="1572477822609" duration="12623000" />
+      <workItem from="1572524465848" duration="17580000" />
+      <workItem from="1572599326036" duration="3812000" />
+      <workItem from="1572606884525" duration="7283000" />
+      <workItem from="1572615123969" duration="5292000" />
+      <workItem from="1572821653721" duration="3133000" />
+      <workItem from="1572902517035" duration="81000" />
+      <workItem from="1572903377101" duration="4471000" />
+      <workItem from="1572936867210" duration="234000" />
+      <workItem from="1572987739653" duration="3475000" />
+      <workItem from="1573025511886" duration="24000" />
+      <workItem from="1573025590417" duration="450000" />
+      <workItem from="1573026916832" duration="301000" />
+      <workItem from="1573027316828" duration="26000" />
+      <workItem from="1573030241911" duration="11551000" />
+      <workItem from="1573095649950" duration="812000" />
+      <workItem from="1573125177764" duration="1339000" />
+      <workItem from="1573157058045" duration="7814000" />
+      <workItem from="1573292400743" duration="18010000" />
+      <workItem from="1573328053660" duration="3766000" />
+      <workItem from="1573382528847" duration="8051000" />
+      <workItem from="1573472710666" duration="505000" />
+      <workItem from="1573473324106" duration="138000" />
+      <workItem from="1573489778507" duration="5224000" />
+      <workItem from="1573581521574" duration="141000" />
+      <workItem from="1573754727831" duration="11949000" />
+      <workItem from="1573815689731" duration="19188000" />
+      <workItem from="1573855127317" duration="1259000" />
+      <workItem from="1573901817115" duration="3828000" />
+      <workItem from="1573930155997" duration="1464000" />
+      <workItem from="1573931914504" duration="182000" />
+      <workItem from="1573932140553" duration="19468000" />
+      <workItem from="1573955098527" duration="1237000" />
+      <workItem from="1573956437965" duration="93000" />
+      <workItem from="1573986242096" duration="14107000" />
+      <workItem from="1574007109690" duration="2253000" />
+      <workItem from="1574022187367" duration="8206000" />
+      <workItem from="1574079991823" duration="1018000" />
+      <workItem from="1574093666045" duration="1534000" />
+      <workItem from="1574236846518" duration="32000" />
+      <workItem from="1574438279623" duration="62000" />
+      <workItem from="1574565589826" duration="255000" />
+      <workItem from="1574600136932" duration="28000" />
+      <workItem from="1574600224180" duration="66000" />
+      <workItem from="1574805696043" duration="156000" />
+      <workItem from="1574841763335" duration="22000" />
+      <workItem from="1574938265474" duration="748000" />
+      <workItem from="1574947722514" duration="7460000" />
+      <workItem from="1574956593464" duration="21291000" />
+      <workItem from="1575023772786" duration="48685000" />
+      <workItem from="1575080947412" duration="2754000" />
+      <workItem from="1575107657911" duration="3144000" />
+      <workItem from="1575114877032" duration="13401000" />
+      <workItem from="1575132047615" duration="89000" />
+      <workItem from="1575132157833" duration="21000" />
+      <workItem from="1575132571486" duration="266000" />
+      <workItem from="1575132856822" duration="9680000" />
+      <workItem from="1575208342683" duration="155000" />
+      <workItem from="1575311484346" duration="410000" />
+      <workItem from="1575389715288" duration="2487000" />
+      <workItem from="1575401004591" duration="7634000" />
+      <workItem from="1575410778230" duration="477000" />
+      <workItem from="1575411387465" duration="1064000" />
+      <workItem from="1575445956325" duration="418000" />
+      <workItem from="1575460860904" duration="5763000" />
+      <workItem from="1575484809331" duration="8234000" />
+      <workItem from="1575496600050" duration="1411000" />
+      <workItem from="1575912719604" duration="22000" />
+      <workItem from="1575913651632" duration="84000" />
+      <workItem from="1576150253084" duration="2600000" />
+      <workItem from="1576160546398" duration="5415000" />
+      <workItem from="1576175311493" duration="249000" />
+      <workItem from="1576241512020" duration="843000" />
+      <workItem from="1576326961478" duration="10703000" />
+      <workItem from="1576433670512" duration="17000" />
+      <workItem from="1576433709562" duration="305000" />
+      <workItem from="1576434286678" duration="3494000" />
+      <workItem from="1576441195433" duration="137000" />
+      <workItem from="1576441414558" duration="14000" />
+      <workItem from="1576443239680" duration="1214000" />
+      <workItem from="1576485400111" duration="67000" />
+      <workItem from="1576487141959" duration="162000" />
+      <workItem from="1576487321062" duration="113000" />
+      <workItem from="1576505708276" duration="3140000" />
+      <workItem from="1576574269508" duration="7160000" />
+      <workItem from="1576582204396" duration="61000" />
+      <workItem from="1576582295402" duration="83000" />
+      <workItem from="1576655442734" duration="817000" />
+      <workItem from="1576665057990" duration="3759000" />
+      <workItem from="1576672793255" duration="4415000" />
+      <workItem from="1576681073455" duration="378000" />
+      <workItem from="1576685154860" duration="1034000" />
+      <workItem from="1576686277710" duration="3979000" />
+      <workItem from="1576693244022" duration="47000" />
+      <workItem from="1576693317869" duration="1082000" />
+      <workItem from="1576754016459" duration="1746000" />
+      <workItem from="1576765161589" duration="575000" />
+      <workItem from="1576765819121" duration="1136000" />
+      <workItem from="1576778596838" duration="12564000" />
+      <workItem from="1576837851117" duration="1144000" />
+      <workItem from="1576878014125" duration="2351000" />
+      <workItem from="1576881878369" duration="1934000" />
+      <workItem from="1576883863287" duration="3448000" />
+      <workItem from="1576926609498" duration="259000" />
+      <workItem from="1577013054166" duration="6166000" />
+      <workItem from="1577544343396" duration="388000" />
+      <workItem from="1577575711021" duration="290000" />
+      <workItem from="1577631306657" duration="2000" />
+      <workItem from="1577631338056" duration="23000" />
+      <workItem from="1582560103729" duration="68000" />
+      <workItem from="1583140413699" duration="1995000" />
+      <workItem from="1583142844865" duration="265000" />
+      <workItem from="1583143153793" duration="38000" />
+      <workItem from="1583143292463" duration="41000" />
+      <workItem from="1583220938018" duration="545000" />
+      <workItem from="1583252795622" duration="2645000" />
+      <workItem from="1583255917145" duration="3995000" />
+      <workItem from="1583405810902" duration="1083000" />
+      <workItem from="1583582092107" duration="12648000" />
+      <workItem from="1583613756232" duration="7127000" />
+      <workItem from="1583700288712" duration="4280000" />
+      <workItem from="1583814547258" duration="2570000" />
+      <workItem from="1584138121736" duration="3595000" />
+      <workItem from="1584393047372" duration="3416000" />
+      <workItem from="1584450144039" duration="24168000" />
+      <workItem from="1584529367149" duration="282000" />
+      <workItem from="1584536053452" duration="654000" />
+      <workItem from="1584559551231" duration="2102000" />
+      <workItem from="1584616784901" duration="4118000" />
+      <workItem from="1584621918471" duration="93000" />
+      <workItem from="1584622506423" duration="1469000" />
+      <workItem from="1584629595953" duration="1417000" />
+      <workItem from="1584637928650" duration="4947000" />
+      <workItem from="1584649373741" duration="24000" />
+      <workItem from="1584696080949" duration="190000" />
+      <workItem from="1584725788882" duration="118000" />
+      <workItem from="1584726012168" duration="233000" />
+      <workItem from="1584747242899" duration="20000" />
+      <workItem from="1584747453619" duration="8000" />
+      <workItem from="1584751106117" duration="191000" />
+      <workItem from="1584802785422" duration="60000" />
+      <workItem from="1584802875624" duration="82000" />
+      <workItem from="1584835560891" duration="148000" />
+      <workItem from="1584877638959" duration="184000" />
+      <workItem from="1584901921988" duration="1726000" />
+      <workItem from="1585022412962" duration="2561000" />
+      <workItem from="1585027129049" duration="199000" />
+      <workItem from="1585036972529" duration="30000" />
+      <workItem from="1585213818240" duration="182000" />
+      <workItem from="1585244293512" duration="19413000" />
+      <workItem from="1585300441916" duration="28000" />
+      <workItem from="1585300555556" duration="42643000" />
+      <workItem from="1585388754406" duration="2900000" />
+      <workItem from="1585517774182" duration="1765000" />
+      <workItem from="1585526578975" duration="817000" />
+      <workItem from="1585620321651" duration="2533000" />
+      <workItem from="1585770586699" duration="871000" />
+      <workItem from="1585772996462" duration="243000" />
+      <workItem from="1585821027589" duration="61000" />
+      <workItem from="1585900012626" duration="2155000" />
+      <workItem from="1585914650953" duration="11646000" />
+      <workItem from="1586014992496" duration="2529000" />
+      <workItem from="1586030715867" duration="79000" />
+      <workItem from="1586033933501" duration="3010000" />
+      <workItem from="1586497094791" duration="170000" />
+      <workItem from="1586601867496" duration="38000" />
+      <workItem from="1586622612320" duration="16416000" />
+      <workItem from="1586829629504" duration="855000" />
+      <workItem from="1587136569499" duration="48000" />
+      <workItem from="1587138341419" duration="755000" />
+      <workItem from="1587307501324" duration="762000" />
+      <workItem from="1587378707883" duration="2429000" />
+      <workItem from="1587416932970" duration="983000" />
+      <workItem from="1587417983224" duration="2188000" />
+      <workItem from="1587420334264" duration="1117000" />
+      <workItem from="1587987888805" duration="81000" />
+      <workItem from="1588002172292" duration="143000" />
+      <workItem from="1588013147409" duration="40000" />
+      <workItem from="1588178018591" duration="609000" />
+      <workItem from="1588797157379" duration="5003000" />
+      <workItem from="1588849310434" duration="38000" />
+      <workItem from="1592565738848" duration="44000" />
+      <workItem from="1592565948135" duration="2966000" />
+      <workItem from="1592570664344" duration="8178000" />
+      <workItem from="1608898778127" duration="731000" />
+      <workItem from="1608900259858" duration="969000" />
+      <workItem from="1608997343061" duration="15000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.config" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="344" y="99" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585773135948">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="344" y="99" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1585773135948" />
+    <state x="574" y="141" key="#com.intellij.ide.util.MemberChooser" timestamp="1586638565924">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="574" y="141" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1586638565924" />
+    <state x="499" y="208" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1586632285693">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="499" y="208" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1536.864@0.0.1536.864" timestamp="1586632285693" />
+    <state x="499" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586638608411">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="499" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.864@0.0.1536.864" timestamp="1586638608411" />
+    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1587421446461">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1587421446461" />
+    <state width="1493" height="360" key="GridCell.Tab.0.bottom" timestamp="1588802983841">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="360" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1588802983841" />
+    <state width="1493" height="360" key="GridCell.Tab.0.center" timestamp="1588802983841">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="360" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1588802983841" />
+    <state width="1493" height="360" key="GridCell.Tab.0.left" timestamp="1588802983841">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="360" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1588802983841" />
+    <state width="1493" height="360" key="GridCell.Tab.0.right" timestamp="1588802983841">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="360" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1588802983841" />
+    <state width="1493" height="258" key="GridCell.Tab.1.bottom" timestamp="1586647174453">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="258" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1586647174453" />
+    <state width="1493" height="258" key="GridCell.Tab.1.center" timestamp="1586647174453">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="258" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1586647174453" />
+    <state width="1493" height="258" key="GridCell.Tab.1.left" timestamp="1586647174453">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="258" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1586647174453" />
+    <state width="1493" height="258" key="GridCell.Tab.1.right" timestamp="1586647174453">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="258" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1586647174453" />
+    <state width="195" height="457" key="HiddenNamespacesPopup" timestamp="1585773149899">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="195" height="457" key="HiddenNamespacesPopup/0.0.1536.864@0.0.1536.864" timestamp="1585773149899" />
+    <state x="249" y="7" key="SettingsEditor" timestamp="1592571220423">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="249" y="7" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1592571220423" />
+    <state x="646" y="322" width="322" height="233" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1584455417714">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="646" y="322" width="322" height="233" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1536.864@0.0.1536.864" timestamp="1584455417714" />
+    <state x="499" y="237" key="com.intellij.database.dbimport.ImportUtil.MyDialog" timestamp="1585350535984">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="499" y="237" key="com.intellij.database.dbimport.ImportUtil.MyDialog/0.0.1536.864@0.0.1536.864" timestamp="1585350535984" />
+    <state x="485" y="74" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1584457684759">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="485" y="74" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1536.864@0.0.1536.864" timestamp="1584457684759" />
+    <state x="209" y="44" key="new project wizard" timestamp="1592565988980">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="209" y="44" key="new project wizard/0.0.1536.864@0.0.1536.864" timestamp="1592565988980" />
+    <state x="425" y="197" key="run.anything.popup" timestamp="1584470357631">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="425" y="197" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1584470357631" />
+    <state x="46" y="185" width="672" height="678" key="search.everywhere.popup" timestamp="1586624086717">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="46" y="185" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1586624086717" />
+    <state x="334" y="115" key="spring file set editor" timestamp="1586625700888">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="334" y="115" key="spring file set editor/0.0.1536.864@0.0.1536.864" timestamp="1586625700888" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/me/repositories/StudentFileRepository.java</url>
+          <line>183</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/me/teledonServer/Service.java</url>
+          <line>195</line>
+          <option name="timeStamp" value="146" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/me/client/DonatoriListModel.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="148" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/me/client/DonatoriListModel.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="149" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

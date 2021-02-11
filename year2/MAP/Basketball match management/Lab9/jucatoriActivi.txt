@@ -1,0 +1,2 @@
+230,2,4,participant
+2,4,2,rezerva

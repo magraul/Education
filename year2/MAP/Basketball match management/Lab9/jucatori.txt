@@ -1,0 +1,4 @@
+44,Civaelaezhae,Liceul Teoretic "Lucian Blaga",LA Clippers
+45,Wojolega,Scoala Gimnaziala "Ioan Bob",Chicago Bulls
+33,Saexifybi,Liceul Teoretic "Lucian Blaga",LA Clippers
+123,Xoliwoje,Colegiul National "George Cosbuc",Indiana Pacers

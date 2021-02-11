@@ -1,0 +1,4 @@
+1,Denver Nuggets,Miami Heat,11/11/2020
+2,Miami Heat,San Antonio Spurs,11/11/2020
+3,San Antonio Spurs,Miami Heat,11/11/2020
+4,Houston Rockets,Miami Heat,11/11/2020

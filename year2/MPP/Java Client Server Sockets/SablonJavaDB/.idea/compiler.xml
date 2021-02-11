@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <wildcardResourcePatterns>
+      <entry name="!?*.java" />
+      <entry name="!?*.form" />
+      <entry name="!?*.class" />
+      <entry name="!?*.groovy" />
+      <entry name="!?*.scala" />
+      <entry name="!?*.flex" />
+      <entry name="!?*.kt" />
+      <entry name="!?*.clj" />
+      <entry name="!?*.aj" />
+      <entry name="!?*.properties" />
+    </wildcardResourcePatterns>
+    <bytecodeTargetLevel>
+      <module name="Lab3Final.TeledonClient.main" target="1.8" />
+      <module name="Lab3Final.TeledonClient.test" target="1.8" />
+      <module name="Lab3Final.TeledonModel.main" target="1.8" />
+      <module name="Lab3Final.TeledonModel.test" target="1.8" />
+      <module name="Lab3Final.TeledonServices.main" target="1.8" />
+      <module name="Lab3Final.TeledonServices.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Lab3Final.main" options="--add-exports=jdk.scripting.nashorn/jdk.nashorn.internal.parser=ALL-UNNAMED --add-exports=jdk.scripting.nashorn/jdk.nashorn.internal.objects=ALL-UNNAMED" />
+    </option>
+  </component>
+</project>

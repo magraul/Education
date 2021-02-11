@@ -1,0 +1,36 @@
+Problema1:
+Am definit cele doua liste in html si prin atributul size le-am fcut fixe(initial).
+Fiecare lista apeleaza o functie din fisierul js asociat la eventul "dublu click".
+In fisierul js in primul rand am luat cele doua selecturi dupa id urile date in html.
+Cand se da dublu click pe o lista, retin optiunea pe care s a dat dublu click, o sterg din select ul in care este si o adaug cu appendChild la celalalt select.\
+
+Problema2:
+Am declarat in html formularul, cu metoda post, deoarece se trimit date undeva.
+Atunci cand se face submit (atributul onsubmit) se va lua rezultatul de la functia de validare definita in scriptul js.
+In functia de validare am o variabila errors, in care o sa colectez toate erorile gasite in inputuri, care sunt verificate pe rand.
+Daca gasesc ceva gresit, modific border ul de la inputul curent in rosu, si adaug la lista de erori un mesaj sugestiv.
+Daca nu gasesc o eroare atunci pun inapoi borderul pe negru, pentru a nu ramane rosu dupa ce am dat submit cu date corecte (daca in prealabil am dat submit cu date invalide el a fost facut rosu).
+Am considerat mail ul valid daca el contine caracterul "@" si nu este pe prima sau pe ultima pozitie.
+Daca au fost adunate erori, le afisam prin alert, altfel punem un mesaj care spune ca au fost toate corecte.
+
+Problema3:
+In ambele variante am declarat un tabel in html, cu id specific pentru varianta problemei.
+Am considerat o dimensiune de 4x4 deci 16 patratele. La inceput apelez o functie de initializare care imi parcurge marimea data si imi construieste tabelul, si o lista cu variantele care o sa fie in patratele.
+Am o functie care primeste o functie lambda, si aplica acea functie pentru fiecare patratel. In initializare o sa atribuim prin aceasta functie cate o valoare ascunsa, luata random din lista cu valori posibile.
+Dupa initializare se apeleaza functia principala, run, in care atribuim un event listener cu eventul 'click' tabloului de joc.
+Am contorizant numarul de click uri pentru a nu lasa sa se adauge cifre noi daca deja sunt doua, pana la expirarea timpului.
+Daca nu sunt deja doua click uri, atunci am in variablila last_click primul click pus ,iar in alta variabila (elem) al doilea click, si daca acestea au aceeasi cifra si sunt pe patrate diferite, atunci si adauga in celula de tabel cifra care era ascunsa si ea va ramane acolo.
+Daca nu a nimerit, atunci  verific ultimul click daca se gaseste printre cele gasite pena in prezent, si daca nu, el dispare, aici e cazul in care dam click pe ceva ce deja este afisat sau deja gasit.
+La varianta cu imagini este identic, doar ca aici in loc de numere punem obiecte de tip Image() cu surse predefinite. Procedeul este identic ca si mai sus, la verificarea a doua imagini, le verific sursele sa fie identice.
+
+Problema4:
+Am definit in html doua tabele cu header vertical si orizontal.
+Am cate o functie speciala pentru fiecare tabel, in care adaug event listener pentru celulele din header iar la click se apeleaza functia de sortare, pentru linia/coloana din header pe care s a dat click.
+Aici fac o sortare normala cu doua for uri, in care inversez liniile sau coloanele care nu sunt in ordine crescatoare. In functia de inversare pur si simplu parcurg linia/coloana si inversez continuturile de pe pozitia curenta.
+In functia de sortare linii/coloane verific in cazul headerului daca sunt la prumul click fac o sortare normala iar daca sunt la al doilea aplic aceeasi sortare dar cu conditia de interschimbare opusa.
+
+
+Problema5:
+Am declarat in html un ol in care sunt li uri ce contin pozele si toate au disply none deci sunt invizibile.
+De asemenea sunt doua butoane next si prev.Pentru fiecare buton am adaugat un event listener care pune pe pozitia curenta adica pe primul element din lista care este vizibil poza precedenta sau urmatoare dupa caz.
+Si mai exista functia care realizeaza schimbarea automata a pozelor, aceasta apeleaza functia care pune urmatoarea poza din lista, la fiecare 3000 de ms, prin apelul la inceput al acestei functii si reapelarea sa recursiva.

@@ -1,0 +1,420 @@
+0,Lokegevu,Scoala Gimnaziala “Horea”
+1,Jojiwaenae,Scoala Gimnaziala “Horea”
+2,Buzhypawe,Scoala Gimnaziala “Horea”
+3,Fymemalae,Scoala Gimnaziala “Horea”
+4,Diwequle,Scoala Gimnaziala “Horea”
+5,Kizhacory,Scoala Gimnaziala “Horea”
+6,Fodanage,Scoala Gimnaziala “Horea”
+7,Tilasaeva,Scoala Gimnaziala “Horea”
+8,Siterere,Scoala Gimnaziala “Horea”
+9,Woripubu,Scoala Gimnaziala “Horea”
+10,Dipizhezhae,Scoala Gimnaziala “Horea”
+11,Pohaefyqy,Scoala Gimnaziala “Horea”
+12,Reshicowi,Scoala Gimnaziala “Horea”
+13,Pefitylo,Scoala Gimnaziala “Horea”
+14,Mebefewa,Scoala Gimnaziala “Horea”
+15,Lozhaeroshu,Scoala Gimnaziala "Octavian Goga"
+16,Sozhymifa,Scoala Gimnaziala "Octavian Goga"
+17,Maewavazhae,Scoala Gimnaziala "Octavian Goga"
+18,Qazhyvaemo,Scoala Gimnaziala "Octavian Goga"
+19,Suvogido,Scoala Gimnaziala "Octavian Goga"
+20,SHaeshusaefi,Scoala Gimnaziala "Octavian Goga"
+21,Tebopixi,Scoala Gimnaziala "Octavian Goga"
+22,Jycuvocy,Scoala Gimnaziala "Octavian Goga"
+23,Taraeleva,Scoala Gimnaziala "Octavian Goga"
+24,Wegabylu,Scoala Gimnaziala "Octavian Goga"
+25,Cimexaeme,Scoala Gimnaziala "Octavian Goga"
+26,Lurokaety,Scoala Gimnaziala "Octavian Goga"
+27,Taecoxiro,Scoala Gimnaziala "Octavian Goga"
+28,Baehelaexu,Scoala Gimnaziala "Octavian Goga"
+29,Baelaewimi,Scoala Gimnaziala "Octavian Goga"
+30,Folidevae,Liceul Teoretic "Lucian Blaga"
+31,Baevugosy,Liceul Teoretic "Lucian Blaga"
+32,Kityvaeshe,Liceul Teoretic "Lucian Blaga"
+33,Laecavyda,Liceul Teoretic "Lucian Blaga"
+34,Nogiluvo,Liceul Teoretic "Lucian Blaga"
+35,Byzhavelae,Liceul Teoretic "Lucian Blaga"
+36,Cyqypozhae,Liceul Teoretic "Lucian Blaga"
+37,Maetemaevy,Liceul Teoretic "Lucian Blaga"
+38,Qaexyqosae,Liceul Teoretic "Lucian Blaga"
+39,Gytacilo,Liceul Teoretic "Lucian Blaga"
+40,SHezhamuri,Liceul Teoretic "Lucian Blaga"
+41,Cebyhila,Liceul Teoretic "Lucian Blaga"
+42,Rerotome,Liceul Teoretic "Lucian Blaga"
+43,ZHaetozhyvu,Liceul Teoretic "Lucian Blaga"
+44,Tygypaeju,Liceul Teoretic "Lucian Blaga"
+45,Wafaeqyby,Scoala Gimnaziala "Ioan Bob"
+46,Hinaehuki,Scoala Gimnaziala "Ioan Bob"
+47,Gimagepe,Scoala Gimnaziala "Ioan Bob"
+48,Begaxaedae,Scoala Gimnaziala "Ioan Bob"
+49,Rurupypu,Scoala Gimnaziala "Ioan Bob"
+50,Wanalaewi,Scoala Gimnaziala "Ioan Bob"
+51,Gasaenaetu,Scoala Gimnaziala "Ioan Bob"
+52,Jyqanozha,Scoala Gimnaziala "Ioan Bob"
+53,ZHeketaefe,Scoala Gimnaziala "Ioan Bob"
+54,SHoruvabe,Scoala Gimnaziala "Ioan Bob"
+55,Hadetozhae,Scoala Gimnaziala "Ioan Bob"
+56,SHibejyke,Scoala Gimnaziala "Ioan Bob"
+57,Vevujiwu,Scoala Gimnaziala "Ioan Bob"
+58,Wobuqaevu,Scoala Gimnaziala "Ioan Bob"
+59,ZHyhuzhivu,Scoala Gimnaziala "Ioan Bob"
+60,Roveweso,Scoala Gimnaziala "Ion Creanga"
+61,Buzhashime,Scoala Gimnaziala "Ion Creanga"
+62,Pibinozhy,Scoala Gimnaziala "Ion Creanga"
+63,Ligyxefi,Scoala Gimnaziala "Ion Creanga"
+64,Laewuryci,Scoala Gimnaziala "Ion Creanga"
+65,ZHimezhebi,Scoala Gimnaziala "Ion Creanga"
+66,Wafonusha,Scoala Gimnaziala "Ion Creanga"
+67,Vemymasae,Scoala Gimnaziala "Ion Creanga"
+68,SHosorylo,Scoala Gimnaziala "Ion Creanga"
+69,Daxulomae,Scoala Gimnaziala "Ion Creanga"
+70,Dowojoti,Scoala Gimnaziala "Ion Creanga"
+71,Boshegago,Scoala Gimnaziala "Ion Creanga"
+72,Pysulabo,Scoala Gimnaziala "Ion Creanga"
+73,Fyshibyxi,Scoala Gimnaziala "Ion Creanga"
+74,Sevyxeku,Scoala Gimnaziala "Ion Creanga"
+75,Moliryqae,Colegiul National Pedagogic "Gheorghe Lazar"
+76,Waeduvolo,Colegiul National Pedagogic "Gheorghe Lazar"
+77,Gyxaejecae,Colegiul National Pedagogic "Gheorghe Lazar"
+78,SHahodynae,Colegiul National Pedagogic "Gheorghe Lazar"
+79,SHyzhaequja,Colegiul National Pedagogic "Gheorghe Lazar"
+80,Naerywube,Colegiul National Pedagogic "Gheorghe Lazar"
+81,Vabylege,Colegiul National Pedagogic "Gheorghe Lazar"
+82,Piqageme,Colegiul National Pedagogic "Gheorghe Lazar"
+83,Dykaboki,Colegiul National Pedagogic "Gheorghe Lazar"
+84,Torirelo,Colegiul National Pedagogic "Gheorghe Lazar"
+85,Senatyxo,Colegiul National Pedagogic "Gheorghe Lazar"
+86,Lobewozhe,Colegiul National Pedagogic "Gheorghe Lazar"
+87,Hyhehoni,Colegiul National Pedagogic "Gheorghe Lazar"
+88,Lagagixe,Colegiul National Pedagogic "Gheorghe Lazar"
+89,Betusaebe,Colegiul National Pedagogic "Gheorghe Lazar"
+90,Bipozhywa,Scoala Gimnaziala Internationala SPECTRUM
+91,Winaelusho,Scoala Gimnaziala Internationala SPECTRUM
+92,Gapabuvae,Scoala Gimnaziala Internationala SPECTRUM
+93,Pulyxaeshu,Scoala Gimnaziala Internationala SPECTRUM
+94,Hesokupi,Scoala Gimnaziala Internationala SPECTRUM
+95,Moshovydu,Scoala Gimnaziala Internationala SPECTRUM
+96,Hushawoqu,Scoala Gimnaziala Internationala SPECTRUM
+97,Xaegadaefi,Scoala Gimnaziala Internationala SPECTRUM
+98,Baesokoshu,Scoala Gimnaziala Internationala SPECTRUM
+99,SHinebefu,Scoala Gimnaziala Internationala SPECTRUM
+100,SHyshyjaefe,Scoala Gimnaziala Internationala SPECTRUM
+101,Cytobapa,Scoala Gimnaziala Internationala SPECTRUM
+102,Gulashyce,Scoala Gimnaziala Internationala SPECTRUM
+103,Qaebysaepo,Scoala Gimnaziala Internationala SPECTRUM
+104,Halaelyqae,Scoala Gimnaziala Internationala SPECTRUM
+105,Ronilere,Colegiul National „Emil Racovita”
+106,Lazhuhiso,Colegiul National „Emil Racovita”
+107,Vaereseshe,Colegiul National „Emil Racovita”
+108,Tyhaecasa,Colegiul National „Emil Racovita”
+109,Caewaemaeky,Colegiul National „Emil Racovita”
+110,Bashefugu,Colegiul National „Emil Racovita”
+111,Hezhagegy,Colegiul National „Emil Racovita”
+112,Talaelyki,Colegiul National „Emil Racovita”
+113,Woxigaely,Colegiul National „Emil Racovita”
+114,Xyleceshae,Colegiul National „Emil Racovita”
+115,Neqaeshulae,Colegiul National „Emil Racovita”
+116,Gawushaewo,Colegiul National „Emil Racovita”
+117,Fimaesoly,Colegiul National „Emil Racovita”
+118,Jujenuri,Colegiul National „Emil Racovita”
+119,Nifaboxe,Colegiul National „Emil Racovita”
+120,Cugucedu,Colegiul National "George Cosbuc"
+121,Lyraelufe,Colegiul National "George Cosbuc"
+122,Dabomiqy,Colegiul National "George Cosbuc"
+123,Leqofuju,Colegiul National "George Cosbuc"
+124,ZHufaeveme,Colegiul National "George Cosbuc"
+125,Wygexobe,Colegiul National "George Cosbuc"
+126,Newaelyge,Colegiul National "George Cosbuc"
+127,SHybesyfi,Colegiul National "George Cosbuc"
+128,Rozhotaeji,Colegiul National "George Cosbuc"
+129,Bovahaedi,Colegiul National "George Cosbuc"
+130,Vulaewyvo,Colegiul National "George Cosbuc"
+131,Syraxegu,Colegiul National "George Cosbuc"
+132,Wycaedego,Colegiul National "George Cosbuc"
+133,SHonaejiho,Colegiul National "George Cosbuc"
+134,Saezhonibe,Colegiul National "George Cosbuc"
+135,Faepydaku,Scoala Gimnaziala "Ion Agarbiceanu"
+136,Mejotyci,Scoala Gimnaziala "Ion Agarbiceanu"
+137,Rilaesyzhe,Scoala Gimnaziala "Ion Agarbiceanu"
+138,Purysheqa,Scoala Gimnaziala "Ion Agarbiceanu"
+139,Wyvoluru,Scoala Gimnaziala "Ion Agarbiceanu"
+140,Canyzhefo,Scoala Gimnaziala "Ion Agarbiceanu"
+141,Jofomyxo,Scoala Gimnaziala "Ion Agarbiceanu"
+142,Faezhykyru,Scoala Gimnaziala "Ion Agarbiceanu"
+143,Fabaewepae,Scoala Gimnaziala "Ion Agarbiceanu"
+144,Sytashaesa,Scoala Gimnaziala "Ion Agarbiceanu"
+145,Nynyzheqo,Scoala Gimnaziala "Ion Agarbiceanu"
+146,ZHevujejae,Scoala Gimnaziala "Ion Agarbiceanu"
+147,Bileboji,Scoala Gimnaziala "Ion Agarbiceanu"
+148,Kutedavi,Scoala Gimnaziala "Ion Agarbiceanu"
+149,Maetezhuda,Scoala Gimnaziala "Ion Agarbiceanu"
+150,Xepolaedu,Liceul Teoretic "Avram Iancu"
+151,ZHadaemufe,Liceul Teoretic "Avram Iancu"
+152,Lysizhaemi,Liceul Teoretic "Avram Iancu"
+153,Hejynusy,Liceul Teoretic "Avram Iancu"
+154,Lodefowo,Liceul Teoretic "Avram Iancu"
+155,Caetubuwo,Liceul Teoretic "Avram Iancu"
+156,Suqozhivu,Liceul Teoretic "Avram Iancu"
+157,Liqezhaery,Liceul Teoretic "Avram Iancu"
+158,Nyqubacae,Liceul Teoretic "Avram Iancu"
+159,Bybaraly,Liceul Teoretic "Avram Iancu"
+160,Talejaelo,Liceul Teoretic "Avram Iancu"
+161,Kaenyshymu,Liceul Teoretic "Avram Iancu"
+162,Waqibyke,Liceul Teoretic "Avram Iancu"
+163,Pedibyne,Liceul Teoretic "Avram Iancu"
+164,Vyhosily,Liceul Teoretic "Avram Iancu"
+165,Bavulyvo,Scoala Gimnaziala "Constantin Brancusi"
+166,Calaejuwae,Scoala Gimnaziala "Constantin Brancusi"
+167,Tirojexe,Scoala Gimnaziala "Constantin Brancusi"
+168,Wowovyla,Scoala Gimnaziala "Constantin Brancusi"
+169,Nyqaefuko,Scoala Gimnaziala "Constantin Brancusi"
+170,ZHaecaedihy,Scoala Gimnaziala "Constantin Brancusi"
+171,Hojigibu,Scoala Gimnaziala "Constantin Brancusi"
+172,Konofyre,Scoala Gimnaziala "Constantin Brancusi"
+173,Dugekowa,Scoala Gimnaziala "Constantin Brancusi"
+174,Famumaese,Scoala Gimnaziala "Constantin Brancusi"
+175,Lyzhutaecu,Scoala Gimnaziala "Constantin Brancusi"
+176,Wyrokily,Scoala Gimnaziala "Constantin Brancusi"
+177,Saezhesuwo,Scoala Gimnaziala "Constantin Brancusi"
+178,Lanaqola,Scoala Gimnaziala "Constantin Brancusi"
+179,Bulijusa,Scoala Gimnaziala "Constantin Brancusi"
+180,Vocevaeqy,Liceul Teoretic "Onisifor Ghibu"
+181,Hujapazhi,Liceul Teoretic "Onisifor Ghibu"
+182,Dewushogo,Liceul Teoretic "Onisifor Ghibu"
+183,Wosaehaecae,Liceul Teoretic "Onisifor Ghibu"
+184,SHacaduwe,Liceul Teoretic "Onisifor Ghibu"
+185,Tidushyqae,Liceul Teoretic "Onisifor Ghibu"
+186,Caeshelasu,Liceul Teoretic "Onisifor Ghibu"
+187,Lopozhela,Liceul Teoretic "Onisifor Ghibu"
+188,Caefekiho,Liceul Teoretic "Onisifor Ghibu"
+189,Lysisexe,Liceul Teoretic "Onisifor Ghibu"
+190,Gysylilo,Liceul Teoretic "Onisifor Ghibu"
+191,Raemyhujy,Liceul Teoretic "Onisifor Ghibu"
+192,Vepuviqy,Liceul Teoretic "Onisifor Ghibu"
+193,Jomojubu,Liceul Teoretic "Onisifor Ghibu"
+194,ZHuhyjigu,Liceul Teoretic "Onisifor Ghibu"
+195,Mashohyqe,Liceul Teoretic "Onisifor Ghibu"
+196,Dejuqonae,Liceul Teoretic "Onisifor Ghibu"
+197,Kimanucy,Liceul Teoretic "Onisifor Ghibu"
+198,Bynaemici,Liceul Teoretic "Onisifor Ghibu"
+199,Laeshypisha,Liceul Teoretic "Onisifor Ghibu"
+200,Fuzhaesheqe,Liceul Teoretic "Onisifor Ghibu"
+201,Ruxuguhy,Liceul Teoretic "Onisifor Ghibu"
+202,Taehilatu,Liceul Teoretic "Onisifor Ghibu"
+203,Nobafyme,Liceul Teoretic "Onisifor Ghibu"
+204,Laenyvaeshu,Liceul Teoretic "Onisifor Ghibu"
+205,Mubukyxi,Liceul Teoretic "Onisifor Ghibu"
+206,Gokylemi,Liceul Teoretic "Onisifor Ghibu"
+207,Bahaeraemu,Liceul Teoretic "Onisifor Ghibu"
+208,ZHyqaejiva,Liceul Teoretic "Onisifor Ghibu"
+209,Qicynizhi,Liceul Teoretic "Onisifor Ghibu"
+210,Toxaewyla,Liceul cu Program Sportiv Cluj-Napoca
+211,Suqaeketo,Liceul cu Program Sportiv Cluj-Napoca
+212,Sataemaedi,Liceul cu Program Sportiv Cluj-Napoca
+213,Hexaexahe,Liceul cu Program Sportiv Cluj-Napoca
+214,Vesoxaeshi,Liceul cu Program Sportiv Cluj-Napoca
+215,Ketuwilo,Liceul cu Program Sportiv Cluj-Napoca
+216,Wolyfadu,Liceul cu Program Sportiv Cluj-Napoca
+217,SHisaxaefae,Liceul cu Program Sportiv Cluj-Napoca
+218,Nytaefaelo,Liceul cu Program Sportiv Cluj-Napoca
+219,SHivofaro,Liceul cu Program Sportiv Cluj-Napoca
+220,Syvagide,Liceul cu Program Sportiv Cluj-Napoca
+221,Lisaesyme,Liceul cu Program Sportiv Cluj-Napoca
+222,Lihaegore,Liceul cu Program Sportiv Cluj-Napoca
+223,Hixuliji,Liceul cu Program Sportiv Cluj-Napoca
+224,Byrivyti,Liceul cu Program Sportiv Cluj-Napoca
+225,Tylodevi,Liceul Teoretic "Nicolae Balcescu"
+226,Danepoji,Liceul Teoretic "Nicolae Balcescu"
+227,SHaevocaena,Liceul Teoretic "Nicolae Balcescu"
+228,Baesaehaeqy,Liceul Teoretic "Nicolae Balcescu"
+229,Lymuloxo,Liceul Teoretic "Nicolae Balcescu"
+230,Dojumaeme,Liceul Teoretic "Nicolae Balcescu"
+231,Kibybegi,Liceul Teoretic "Nicolae Balcescu"
+232,Maebamyshu,Liceul Teoretic "Nicolae Balcescu"
+233,ZHapuguri,Liceul Teoretic "Nicolae Balcescu"
+234,Paekeshabi,Liceul Teoretic "Nicolae Balcescu"
+235,Wutavaejo,Liceul Teoretic "Nicolae Balcescu"
+236,Faezhilove,Liceul Teoretic "Nicolae Balcescu"
+237,Jorataru,Liceul Teoretic "Nicolae Balcescu"
+238,Jowipohu,Liceul Teoretic "Nicolae Balcescu"
+239,Cezhawete,Liceul Teoretic "Nicolae Balcescu"
+240,Laepeledy,Liceul Teoretic "Gheorghe Sincai"
+241,ZHuhawyfo,Liceul Teoretic "Gheorghe Sincai"
+242,Kisisimi,Liceul Teoretic "Gheorghe Sincai"
+243,Gevaeboko,Liceul Teoretic "Gheorghe Sincai"
+244,Henexymu,Liceul Teoretic "Gheorghe Sincai"
+245,Gavulumo,Liceul Teoretic "Gheorghe Sincai"
+246,Solaebody,Liceul Teoretic "Gheorghe Sincai"
+247,Kaekodyha,Liceul Teoretic "Gheorghe Sincai"
+248,Dalonifae,Liceul Teoretic "Gheorghe Sincai"
+249,Gifaepuqo,Liceul Teoretic "Gheorghe Sincai"
+250,Gifejola,Liceul Teoretic "Gheorghe Sincai"
+251,Cukazhihi,Liceul Teoretic "Gheorghe Sincai"
+252,Nelaepily,Liceul Teoretic "Gheorghe Sincai"
+253,Ximaelyki,Liceul Teoretic "Gheorghe Sincai"
+254,Moriponi,Liceul Teoretic "Gheorghe Sincai"
+255,Navohaeci,Scoala "Nicolae Titulescu"
+256,Vanigune,Scoala "Nicolae Titulescu"
+257,Jecegimu,Scoala "Nicolae Titulescu"
+258,Hifeluli,Scoala "Nicolae Titulescu"
+259,Haevyxeshu,Scoala "Nicolae Titulescu"
+260,Cijybyqo,Scoala "Nicolae Titulescu"
+261,Fohyqazhu,Scoala "Nicolae Titulescu"
+262,Sajoruse,Scoala "Nicolae Titulescu"
+263,Cyxudizhe,Scoala "Nicolae Titulescu"
+264,Gunyjajo,Scoala "Nicolae Titulescu"
+265,Hysidefa,Scoala "Nicolae Titulescu"
+266,Baekidyxi,Scoala "Nicolae Titulescu"
+267,Raeculuko,Scoala "Nicolae Titulescu"
+268,Limemufi,Scoala "Nicolae Titulescu"
+269,Siqyjule,Scoala "Nicolae Titulescu"
+270,Wezhyshinae,Scoala Gimnaziala "Liviu Rebreanu"
+271,Kaelipoli,Scoala Gimnaziala "Liviu Rebreanu"
+272,Gaeniqaetu,Scoala Gimnaziala "Liviu Rebreanu"
+273,Gozhilapu,Scoala Gimnaziala "Liviu Rebreanu"
+274,Didyvoma,Scoala Gimnaziala "Liviu Rebreanu"
+275,Relolate,Scoala Gimnaziala "Liviu Rebreanu"
+276,ZHaezhafawi,Scoala Gimnaziala "Liviu Rebreanu"
+277,Byduloga,Scoala Gimnaziala "Liviu Rebreanu"
+278,SHagapazhe,Scoala Gimnaziala "Liviu Rebreanu"
+279,Nuneshyji,Scoala Gimnaziala "Liviu Rebreanu"
+280,Vezhijiry,Scoala Gimnaziala "Liviu Rebreanu"
+281,Lawiqewu,Scoala Gimnaziala "Liviu Rebreanu"
+282,Kofushyhae,Scoala Gimnaziala "Liviu Rebreanu"
+283,Pejotuwae,Scoala Gimnaziala "Liviu Rebreanu"
+284,Xicajulae,Scoala Gimnaziala "Liviu Rebreanu"
+285,ZHaeshataci,Scoala Gimnaziala "Iuliu Hatieganu"
+286,Nymuqiqy,Scoala Gimnaziala "Iuliu Hatieganu"
+287,Felyfokae,Scoala Gimnaziala "Iuliu Hatieganu"
+288,Disaetubo,Scoala Gimnaziala "Iuliu Hatieganu"
+289,ZHohesaeti,Scoala Gimnaziala "Iuliu Hatieganu"
+290,SHidevusae,Scoala Gimnaziala "Iuliu Hatieganu"
+291,Pinulaely,Scoala Gimnaziala "Iuliu Hatieganu"
+292,ZHyjopycae,Scoala Gimnaziala "Iuliu Hatieganu"
+293,SHozhyzhylo,Scoala Gimnaziala "Iuliu Hatieganu"
+294,Saejufaeda,Scoala Gimnaziala "Iuliu Hatieganu"
+295,Wacaecugu,Scoala Gimnaziala "Iuliu Hatieganu"
+296,ZHisalaelu,Scoala Gimnaziala "Iuliu Hatieganu"
+297,Bilezhunu,Scoala Gimnaziala "Iuliu Hatieganu"
+298,Sifiwaxo,Scoala Gimnaziala "Iuliu Hatieganu"
+299,SHapicefa,Scoala Gimnaziala "Iuliu Hatieganu"
+300,Wajylelu,Liceul Teoretic "Bathory Istvan"
+301,SHocutiry,Liceul Teoretic "Bathory Istvan"
+302,Sisywaebe,Liceul Teoretic "Bathory Istvan"
+303,Foremesy,Liceul Teoretic "Bathory Istvan"
+304,Baefobaebe,Liceul Teoretic "Bathory Istvan"
+305,Pimiwowa,Liceul Teoretic "Bathory Istvan"
+306,Qupileke,Liceul Teoretic "Bathory Istvan"
+307,Cokalaezhae,Liceul Teoretic "Bathory Istvan"
+308,Qaedizhyzhu,Liceul Teoretic "Bathory Istvan"
+309,Labikaqu,Liceul Teoretic "Bathory Istvan"
+310,Latyjeco,Liceul Teoretic "Bathory Istvan"
+311,Qyfibaego,Liceul Teoretic "Bathory Istvan"
+312,Hyqutynae,Liceul Teoretic "Bathory Istvan"
+313,Molowici,Liceul Teoretic "Bathory Istvan"
+314,Citewixe,Liceul Teoretic "Bathory Istvan"
+315,Jadepipi,Colegiul National "George Baritiu"
+316,Nytyculi,Colegiul National "George Baritiu"
+317,Vuzhuborae,Colegiul National "George Baritiu"
+318,ZHisabigae,Colegiul National "George Baritiu"
+319,Faenirudu,Colegiul National "George Baritiu"
+320,Maecesilu,Colegiul National "George Baritiu"
+321,Qishyfyna,Colegiul National "George Baritiu"
+322,Hefishohi,Colegiul National "George Baritiu"
+323,Kuwowihi,Colegiul National "George Baritiu"
+324,Raejequqy,Colegiul National "George Baritiu"
+325,Caebaepabe,Colegiul National "George Baritiu"
+326,Juxigega,Colegiul National "George Baritiu"
+327,Gynyciko,Colegiul National "George Baritiu"
+328,Guhelyla,Colegiul National "George Baritiu"
+329,Veshubify,Colegiul National "George Baritiu"
+330,Paemagaeky,Liceul Teoretic "Apaczai Csere Janos"
+331,Lidiqaje,Liceul Teoretic "Apaczai Csere Janos"
+332,Coshaeryda,Liceul Teoretic "Apaczai Csere Janos"
+333,Saelesinu,Liceul Teoretic "Apaczai Csere Janos"
+334,Koxaelete,Liceul Teoretic "Apaczai Csere Janos"
+335,Tonerowo,Liceul Teoretic "Apaczai Csere Janos"
+336,Nubywytae,Liceul Teoretic "Apaczai Csere Janos"
+337,Wujylemi,Liceul Teoretic "Apaczai Csere Janos"
+338,Hewubizha,Liceul Teoretic "Apaczai Csere Janos"
+339,Daelepule,Liceul Teoretic "Apaczai Csere Janos"
+340,Wywiroqo,Liceul Teoretic "Apaczai Csere Janos"
+341,Fitemasu,Liceul Teoretic "Apaczai Csere Janos"
+342,Hibapalo,Liceul Teoretic "Apaczai Csere Janos"
+343,Lamysheki,Liceul Teoretic "Apaczai Csere Janos"
+344,Begaeqesi,Liceul Teoretic "Apaczai Csere Janos"
+345,Vesobilae,Seminarul Teologic Ortodox
+346,Berushoshu,Seminarul Teologic Ortodox
+347,Cerozhavae,Seminarul Teologic Ortodox
+348,Lysicajae,Seminarul Teologic Ortodox
+349,Dowyshyme,Seminarul Teologic Ortodox
+350,Dabogoqae,Seminarul Teologic Ortodox
+351,Rosasyqe,Seminarul Teologic Ortodox
+352,Waepuxaehi,Seminarul Teologic Ortodox
+353,Hilolashi,Seminarul Teologic Ortodox
+354,Cajupiqy,Seminarul Teologic Ortodox
+355,Bokonaezha,Seminarul Teologic Ortodox
+356,Gesyhiky,Seminarul Teologic Ortodox
+357,Conygari,Seminarul Teologic Ortodox
+358,Gudobebi,Seminarul Teologic Ortodox
+359,Ryverevi,Seminarul Teologic Ortodox
+360,Bogowaero,Liceul de Informatica "Tiberiu Popoviciu"
+361,Fotanive,Liceul de Informatica "Tiberiu Popoviciu"
+362,Qaevifoke,Liceul de Informatica "Tiberiu Popoviciu"
+363,Midixene,Liceul de Informatica "Tiberiu Popoviciu"
+364,Qelykaefa,Liceul de Informatica "Tiberiu Popoviciu"
+365,Sonavurae,Liceul de Informatica "Tiberiu Popoviciu"
+366,Higapiby,Liceul de Informatica "Tiberiu Popoviciu"
+367,Jybyjavu,Liceul de Informatica "Tiberiu Popoviciu"
+368,Taefisufu,Liceul de Informatica "Tiberiu Popoviciu"
+369,Xaedomoxa,Liceul de Informatica "Tiberiu Popoviciu"
+370,Netaetara,Liceul de Informatica "Tiberiu Popoviciu"
+371,Kykozhawo,Liceul de Informatica "Tiberiu Popoviciu"
+372,Keqoguzhe,Liceul de Informatica "Tiberiu Popoviciu"
+373,Licirery,Liceul de Informatica "Tiberiu Popoviciu"
+374,Xulufulu,Liceul de Informatica "Tiberiu Popoviciu"
+375,Xixulaero,Scoala Gimnaziala „Alexandru Vaida – Voevod"
+376,Cyloshiwy,Scoala Gimnaziala „Alexandru Vaida – Voevod"
+377,Qylyhyzho,Scoala Gimnaziala „Alexandru Vaida – Voevod"
+378,Beninumo,Scoala Gimnaziala „Alexandru Vaida – Voevod"
+379,Nikishydu,Scoala Gimnaziala „Alexandru Vaida – Voevod"
+380,SHifaebega,Scoala Gimnaziala „Alexandru Vaida – Voevod"
+381,Xecoqugu,Scoala Gimnaziala „Alexandru Vaida – Voevod"
+382,Naepafywe,Scoala Gimnaziala „Alexandru Vaida – Voevod"
+383,ZHycaevoti,Scoala Gimnaziala „Alexandru Vaida – Voevod"
+384,Lynucimu,Scoala Gimnaziala „Alexandru Vaida – Voevod"
+385,Ralusore,Scoala Gimnaziala „Alexandru Vaida – Voevod"
+386,Jijetaewe,Scoala Gimnaziala „Alexandru Vaida – Voevod"
+387,Nydaelohe,Scoala Gimnaziala „Alexandru Vaida – Voevod"
+388,Luvakute,Scoala Gimnaziala „Alexandru Vaida – Voevod"
+389,Baemaedaxu,Scoala Gimnaziala „Alexandru Vaida – Voevod"
+390,Lapyquny,Liceul Teoretic ELF
+391,Fyhowicae,Liceul Teoretic ELF
+392,Mywaruki,Liceul Teoretic ELF
+393,Kazhynute,Liceul Teoretic ELF
+394,Tawetose,Liceul Teoretic ELF
+395,Netaekuqae,Liceul Teoretic ELF
+396,Jisolejae,Liceul Teoretic ELF
+397,Paesetotae,Liceul Teoretic ELF
+398,Luzhuqycu,Liceul Teoretic ELF
+399,Cumewewa,Liceul Teoretic ELF
+400,Kuhyroji,Liceul Teoretic ELF
+401,Lameryshi,Liceul Teoretic ELF
+402,Wejaekaqu,Liceul Teoretic ELF
+403,Fakoteha,Liceul Teoretic ELF
+404,Kataedoso,Liceul Teoretic ELF
+405,Naemupaqae,Scoala Gimnaziala "Gheorghe Sincai" Floresti
+406,Catasaesho,Scoala Gimnaziala "Gheorghe Sincai" Floresti
+407,Jehaelenae,Scoala Gimnaziala "Gheorghe Sincai" Floresti
+408,Bozhinyhe,Scoala Gimnaziala "Gheorghe Sincai" Floresti
+409,ZHocujatae,Scoala Gimnaziala "Gheorghe Sincai" Floresti
+410,Siquxyso,Scoala Gimnaziala "Gheorghe Sincai" Floresti
+411,Kaxugymae,Scoala Gimnaziala "Gheorghe Sincai" Floresti
+412,ZHezhevafi,Scoala Gimnaziala "Gheorghe Sincai" Floresti
+413,Mapulaezhe,Scoala Gimnaziala "Gheorghe Sincai" Floresti
+414,Rilyvoqu,Scoala Gimnaziala "Gheorghe Sincai" Floresti
+415,ZHawunaeke,Scoala Gimnaziala "Gheorghe Sincai" Floresti
+416,Kobopyti,Scoala Gimnaziala "Gheorghe Sincai" Floresti
+417,Nupamomi,Scoala Gimnaziala "Gheorghe Sincai" Floresti
+418,Rekedoba,Scoala Gimnaziala "Gheorghe Sincai" Floresti
+419,Syrytyli,Scoala Gimnaziala "Gheorghe Sincai" Floresti

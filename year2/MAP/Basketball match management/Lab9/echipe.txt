@@ -1,0 +1,28 @@
+0,Houston Rockets
+1,Los Angeles Lakers
+2,LA Clippers
+3,Chicago Bulls
+4,Cleveland Cavaliers
+5,Utah Jazz
+6,Brooklyn Nets
+7,New Orleans Pelicans
+8,Indiana Pacers
+9,Toronto Raptors
+10,Charlotte Hornets
+11,Phoenix Suns
+12,Portland TrailBlazers
+13,Golden State Warriors
+14,Washington Wizards
+15,San Antonio Spurs
+16,Orlando Magic
+17,Denver Nuggets
+18,Detroit Pistons
+19,Atlanta Hawks
+20,Dallas Mavericks
+21,Sacramento Kings
+22,Oklahoma City Thunder
+23,Boston Celtics
+24,New York Knicks
+25,Minnesota Timberwolves
+26,Miami Heat
+27,Milwaukee Bucks

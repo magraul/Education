@@ -1,0 +1,33 @@
+Problema 1:
+Partea de html a ramas la fel, sunt definite cele doua liste.
+In scriptul js am definit cu jQuery ce se intampla la dublu click
+pe componenta cu id "select1" si "select2", mai exact am adaugat elementul selectat
+in cealalta lista, si l am sters din lista unde s a dat dublu click.
+
+Problema 2:
+In script am luat formularul dupa id si am definit la incarcarea documentului, ce se intampla cand se face submit.
+Am delcarat un string in care colectez erorile aparute.Validez pe rand fiecare input, pe care il iau dupa id, 
+si daca se gasesc neregului se lasa un mesaj sugestiv in string, si se modifica styles din componenta respectiva, 
+sa aiba contur rosu, daca este ok, se trece styles la contur negru. La final daca sunt erori in string, alertam
+utilizatorul.
+
+Problema 3:
+Am definit in html tabelul cum arata, fiecare numar este intr un tag p, care are ca si style sa fie ascuns.
+In script la incarcarea documentului, definesc eventul de click pe un td, imi numar click urile, daca sunt deja doua
+nu fac nimic, daca sunt doua adunate ,verfic elementul curent selectat, si pe precedentul, iar daca se potrivesc modific 
+styles pe cele doua sa fie vizibile, altfel le pun din nou pe hidden. La un click este automat setat styles pe visible, daca
+nu sunt deja doua vizibile. La varianta cu imagini la fel, imaginile sunt in tag uri p, si sunt invizilibe. Pe langa asta fiecare imagine
+are o clasa, imaginile identice sunt in aeeasi clasa. Deci in fiecare clasa vor fi doua imagini.
+Aici se schimba functia care verifica cele doua elemente selectate, se verifica clasa din care fac parte. In rest este acelasi procedeu ca si 
+la numere, la fel si accesarea elementelor din html, prim metode jQuery.
+
+Problema 4:
+La incarcarea documentului, am luat fiecare tabel in parte si am aplicat pentru fiecare tag th din tabel un listener pentru eventul click, care 
+va parcurge linia/ coloana pe care s a dat click in th, si se sorteaza, prin interschimbarea continutului html. Pentru sortarea inversa la mai multe click uri
+am folosit doua variabile globale care imi retin daca sunt la click 1 sau la click 2 si in functie de asta sorteaza crescator sa descrescator.
+
+Problema 5:
+In html nu s a schimbat nimic, avem lista cu cele 4 imagini, care au initial style sa nu fie vizibile, doua butoane, si link pentru fiecare poza.
+In script la incarcarea documentului, am definit ce se intampla la click pe prev, inlocuiesc proza curenta cu anterioara.
+Pentru butonul de next am o functie, care inlocuieste cu poza urmatoare. Si apelez o functie care tot apeleaza la un interval de timp fucntia
+care se apeleaza cand apasam butonul next. Fiecare componenta este acum accesata direct dupa id, cu jQuery. 
