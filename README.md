@@ -9,14 +9,14 @@
   - Painting Game in assembly
   - Bresenham algorithm
 
-### Fundammentals of programming
+#### Fundammentals of programming
   - [Python project](https://github.com/magraul/education/tree/main/year1/semester1/fp/students%20management "Python project")
     - Python: all language features
     - Layered architecture: model, validation, repository, services, console user interface
     - Patterns: GRASP: Expert, Creator, Controller, High cohesion, Low coupling, SOLID
     - Students management
    
-### Object-Oriented Programming
+#### Object-Oriented Programming
   - [C project](https://github.com/magraul/education/tree/main/year1/semester2/OOP/travel%20agency/TemaLab3 "C project")
     - C: all language features
     - Layered architecture: console user interface, service, repository, domain, validation
