@@ -19,8 +19,11 @@
 #### Object-Oriented Programming
   - [C project](https://github.com/magraul/education/tree/main/year1/semester2/OOP/travel%20agency/TemaLab3 "C project")
     - C: all language features
-    - Layered architecture: console user interface, service, repository, domain, validation
-    - travel agency
+    - Layered architecture: model, validation, repository, service, console user interface
+    - Travel agency
    
    - [C++ Qt project](https://github.com/magraul/education/tree/main/year1/semester2/OOP/online%20shop/temp_1_functionalitate "C++ Qt project")
-   
+    - C++: all language features
+    - Layered architecture: model, validation, repository, service, graphical user interface
+    - User interface design with Qt
+    - Online Shop
