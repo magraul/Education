@@ -59,3 +59,18 @@
     - Manage basketball tournament
 
 #### Web Programming
+  - [JavaScript](https://github.com/magraul/education/tree/main/year2/semester2/PW/JavaScript/LabJS "JavaScript")
+    - Javascript: basic language features(DOM manipulation)
+    - Client-side
+    - Some ganes in browser
+  - [Ajax](https://github.com/magraul/education/tree/main/year2/semester2/PW/Ajax/LabAjax "Ajax")
+    - Client-side: HTML, CSS, Javascript(jQuery)
+    - Server-side: PHP
+  - [PHP](https://github.com/magraul/education/tree/main/year2/semester2/PW/PHP/LabPHP "PHP")
+    - Client-side: HTML, CSS
+    - Server-side: PHP(basic features, security)
+  - [jQuery](https://github.com/magraul/education/tree/main/year2/semester2/PW/jQuery/LabjQuery "jQuery")
+    - Client-side
+    - basic jQuery
+#### Design and Programming Environments
+  - []  
