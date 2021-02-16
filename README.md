@@ -73,4 +73,47 @@
     - Client-side
     - basic jQuery
 #### Design and Programming Environments
-  - []  
+  - [C# Client-Server](https://github.com/magraul/education/tree/main/year2/semester2/MPP/C%23%20Client%20Server%20Sockets/Proiect_MPP_C%23_VARIANTA_FINALA "C# Client-Server")
+      - C#: all language features
+      - Distributed application: client-server model
+      - Client: Windows Forms Application
+      - Sockets, Multithreading, Proxy pattern
+      - Persistence: PostgreSQL database
+      - Telethon application
+  - [Java Client-Server](https://github.com/magraul/education/tree/main/year2/semester2/MPP/Java%20Client%20Server%20Sockets/SablonJavaDB "Java Client-Server")
+      - Java: all language features
+      - Distributed application: client-server model
+      - Client: GUI JavaFX
+      - Sockets(TCP/IP), Multithreading, Proxy pattern
+      - Persistence: PostgreSQL database
+      - Telethon application
+  - [Java client-server RMI](https://github.com/magraul/education/tree/main/year2/semester2/MPP/Client%20Server%20RMI%20Spring%20Remoting/SablonJavaDB "Java client-server RMI")
+      - Java: all language features
+      - Spring Framework: Spring RMI
+      - Distributed application: client-server model
+      - Client: GUI JavaFX
+      - Communication protocol: RMI
+      - Persistence: PostgreSQL database
+      - Telethon application
+  - [Java + C# cross platform app](https://github.com/magraul/education/tree/main/year2/semester2/MPP/Thrift%20app%20Java%20client%20C%23%20Server "Java + C# cross platform app")
+      - Cross-platform app: Interface Definition Language, Apache Thrift
+      - Client-side: Java
+      - Server-side: C#
+      - Persistence: PostgreSQL database
+      - Telethon application
+      - Distributed application: client-server model
+  - [Java REST Services](https://github.com/magraul/education/tree/main/year2/semester2/MPP/Java%20Rest%20Services%20%2B%20rest%20client%20java "Java REST Services")
+      - Java: all language features
+      - Spring Framework: Spring MVC
+      - REST API
+      - Distributed application: client-server model
+      - Communication protocol: HTTP
+      - Client: simple Java REST client
+      - Persistence: PostgreSQL database
+      - CRUD operations on charitable case entity
+  - [React web client](https://github.com/magraul/education/tree/main/year2/semester2/MPP/Java%20Rest%20Services%20%2B%20rest%20client%20java/src/main/java/me/rest_client/teledon-rest-react-client "React web client")
+    - React library: basic features(React components)
+    - CRUD operations on charitable case entity
+  - [C# Rest Client](https://github.com/magraul/education/tree/main/year2/semester2/MPP/Rest%20Client%20C%23/RestClient "C# Rest Client")
+    - Client: simple C# REST client
+    - CRUD operations on charitable case entity
