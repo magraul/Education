@@ -27,3 +27,35 @@
      - Layered architecture: model, validation, repository, service, graphical user interface
      - User interface design with Qt
      - Online Shop
+#### Data Structures and Algorithms
+  - [Double Linked List](https://github.com/magraul/education/tree/main/year1/semester2/SDA/Double%20Linked%20List%20array%20representation/Laborator4 "Double Linked LIst")
+    - C++
+    - Array representation
+    - Iterator
+  - [Map](https://github.com/magraul/education/tree/main/year1/semester2/SDA/Map%20with%20Coalasced%20Hashing/Laborator6 "Map")
+    - C++
+    - Hash Table
+    - Coalesced Chaining
+  - [Quaternary Heap](https://github.com/magraul/education/tree/main/year1/semester2/SDA/Quaternary%20Heap/Laborator5 "Quaternary Heap")
+    - C++
+    - Prioriry Queue
+  - [Sorted Multi-Map](https://github.com/magraul/education/tree/main/year1/semester2/SDA/Sorted%20Multi-Map%20with%20binary%20tree%20array%20representation/Lab7 "Sorted Multi-Map")
+    - C++
+    - Implemented with binary search tree
+    - Array representation
+### Year 2
+
+#### Advanced Programming Methods
+  - [Java Project](https://github.com/magraul/education/tree/main/year2/semester1/MAP/GradesManagement/Lab3Final "Java Project")
+    - Java: all language features
+    - JavaFX: basic features
+    - Layered architecture: model, validation, repository, service, controller, graphical user interface
+    - Patterns: MVC, Observer, Decorator, Factory, Singleton
+    - Grades Management
+  - [C# Project](https://github.com/magraul/education/tree/main/year2/semester1/MAP/Basketball%20match%20management/Lab9 "C# Project")
+    - C#: all language features
+    - Layered architecture: model, validation, repository, service, controller, console user interface
+    - Patterns: Decorator, Factory, Silgleton etc
+    - Manage basketball tournament
+
+#### Web Programming
