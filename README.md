@@ -185,7 +185,7 @@
     - Client-Side
 #### Parallel and Distributed Programming
   - [Java Project](https://github.com/magraul/education/tree/main/year3/semester1/PPD/PPD-P1 "Java Project")
-  - Java: all language features
-  - Distributed application: client-server model
-  - Sockets(TCP/IP), Multithreading, ExecutorService, Scheduling, Tasks
-  - Movie tickets
+    - Java: all language features
+    - Distributed application: client-server model
+    - Sockets(TCP/IP), Multithreading, ExecutorService, Scheduling, Tasks
+    - Movie tickets
