@@ -223,7 +223,7 @@
     - Pandas
     - Intelligent Recommender System
     - Collaborative Filtering
-    - Matrix factorization
+    - Matrix Factorization
     - Momentum Gradient Descent
 ##### [Frontend](https://github.com/magraul/AnimeTimeFrontEnd)
     - React
