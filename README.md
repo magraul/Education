@@ -208,7 +208,7 @@
     - Watching list
     - Trending
     - Ratings
-    - Recommendations
+    - Intelligent Recommendations
 
 ##### [Backend](https://github.com/magraul/AnimeTimeBackend/tree/main/animetimebackend)
     - SpringBoot Application
