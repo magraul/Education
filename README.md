@@ -4,42 +4,42 @@
 
 #### Assembly Programming
 
-- [Assembly project](https://github.com/magraul/education/tree/main/year1/semester1/asm/Assembly%20paint "Assembly paint project")
+#####[Assembly project](https://github.com/magraul/education/tree/main/year1/semester1/asm/Assembly%20paint "Assembly paint project")
   - Assembly: all language features
   - Painting Game in assembly
   - Bresenham algorithm
 
 #### Fundammentals of programming
-  - [Python project](https://github.com/magraul/education/tree/main/year1/semester1/fp/students%20management "Python project")
+##### [Python project](https://github.com/magraul/education/tree/main/year1/semester1/fp/students%20management "Python project")
     - Python: all language features
     - Layered architecture: model, validation, repository, services, console user interface
     - Patterns: GRASP: Expert, Creator, Controller, High cohesion, Low coupling, SOLID
     - Students management
    
 #### Object-Oriented Programming
-  - [C project](https://github.com/magraul/education/tree/main/year1/semester2/OOP/travel%20agency/TemaLab3 "C project")
+##### [C project](https://github.com/magraul/education/tree/main/year1/semester2/OOP/travel%20agency/TemaLab3 "C project")
     - C: all language features
     - Layered architecture: model, validation, repository, service, console user interface
     - Travel agency
    
-   - [C++ Qt project](https://github.com/magraul/education/tree/main/year1/semester2/OOP/online%20shop/temp_1_functionalitate "C++ Qt project")
+##### [C++ Qt project](https://github.com/magraul/education/tree/main/year1/semester2/OOP/online%20shop/temp_1_functionalitate "C++ Qt project")
      - C++: all language features
      - Layered architecture: model, validation, repository, service, graphical user interface
      - User interface design with Qt
      - Online Shop
 #### Data Structures and Algorithms
-  - [Double Linked List](https://github.com/magraul/education/tree/main/year1/semester2/SDA/Double%20Linked%20List%20array%20representation/Laborator4 "Double Linked LIst")
+##### [Double Linked List](https://github.com/magraul/education/tree/main/year1/semester2/SDA/Double%20Linked%20List%20array%20representation/Laborator4 "Double Linked LIst")
     - C++
     - Array representation
     - Iterator
-  - [Map](https://github.com/magraul/education/tree/main/year1/semester2/SDA/Map%20with%20Coalasced%20Hashing/Laborator6 "Map")
+##### [Map](https://github.com/magraul/education/tree/main/year1/semester2/SDA/Map%20with%20Coalasced%20Hashing/Laborator6 "Map")
     - C++
     - Hash Table
     - Coalesced Chaining
-  - [Quaternary Heap](https://github.com/magraul/education/tree/main/year1/semester2/SDA/Quaternary%20Heap/Laborator5 "Quaternary Heap")
+##### [Quaternary Heap](https://github.com/magraul/education/tree/main/year1/semester2/SDA/Quaternary%20Heap/Laborator5 "Quaternary Heap")
     - C++
     - Prioriry Queue
-  - [Sorted Multi-Map](https://github.com/magraul/education/tree/main/year1/semester2/SDA/Sorted%20Multi-Map%20with%20binary%20tree%20array%20representation/Lab7 "Sorted Multi-Map")
+##### [Sorted Multi-Map](https://github.com/magraul/education/tree/main/year1/semester2/SDA/Sorted%20Multi-Map%20with%20binary%20tree%20array%20representation/Lab7 "Sorted Multi-Map")
     - C++
     - Implemented with binary search tree
     - Array representation
