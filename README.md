@@ -199,7 +199,7 @@
     - Frontend: Ionic React (TypeScript)
     - Backend: SpringBoot (Java)
     - Persistence: Postgres
-##### Diploma project
+### Diploma project
 #### Anime Recommender Application
     - Huge Anine database
     - Real time chat on anime page
