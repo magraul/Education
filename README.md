@@ -127,7 +127,7 @@
     - Usage scenarios
     - Employee monitoring
 #### Artificial intelligence
-##### [Genetic Algorithm](https://github.com/magraul/education/tree/main/year2/semester2/AI/TSP%20Genetic/TSP_GENETIC" "Genetic Algorithm)
+##### [Genetic Algorithm](https://github.com/magraul/education/tree/main/year2/semester2/AI/TSP%20Genetic/TSP_GENETIC" "Genetic Algorithm")
     - Python
     - Travelling Salesman Problem
 ##### [Community detection](https://github.com/magraul/education/tree/main/year2/semester2/AI/community%20detection/Detectie_Comunitati "Community detection")
