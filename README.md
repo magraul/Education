@@ -193,3 +193,9 @@
     - Distributed application: client-server model
     - Sockets(TCP/IP), Multithreading, ExecutorService, Scheduling, Tasks
     - Movie tickets
+#### Group Project
+  - [NoteIT](https://github.com/PC-Work-in-Progress/Proiect_Colectiv)
+    - Notes management platform
+    - Frontend: Ionic React (TypeScript)
+    - Backend: SpringBoot (Java)
+    - Persistence: Postgres
