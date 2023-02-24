@@ -5,9 +5,9 @@
 #### Assembly Programming
 
 ##### [Assembly project](https://github.com/magraul/education/tree/main/year1/semester1/asm/Assembly%20paint "Assembly paint project")
-  - Assembly: all language features
-  - Painting Game in assembly
-  - Bresenham algorithm
+    - Assembly: all language features
+    - Painting Game in assembly
+    - Bresenham algorithm
 
 #### Fundammentals of programming
 ##### [Python project](https://github.com/magraul/education/tree/main/year1/semester1/fp/students%20management "Python project")
