@@ -174,11 +174,15 @@
     - Farming application
     - Server-side
     - Persistance: mongodb
+    - Koa (NodeJS)
+    - JWT authentication
+    - Web socket: push notifications
 
   - [Ionic React Project](https://github.com/magraul/education/tree/main/year3/semester1/PDM/Ionic%20React%20Web%20Client/Ionic%20react%20client "Ionic React Project")
-    - Ionic-React: basic features
+    - Ionic React (TypeScript): components, state, reducers, context providers, hooks, web sockets, background tasks
     - Capacitor
-    - Mpas
+    - Animations
+    - Usage of device features: camera, file system, location, network
     - Communication: Sockets, HTTP protocol
     - Axios
     - Farming application
