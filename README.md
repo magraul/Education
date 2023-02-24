@@ -200,7 +200,7 @@
     - Backend: SpringBoot (Java)
     - Persistence: Postgres
 #### Diploma project
-##### Anime Recommender Application
+#### Anime Recommender Application
     - Huge Anine database
     - Real time chat on anime page
     - Push notifications (Web socket)
@@ -210,7 +210,7 @@
     - Ratings
     - Recommendations
 
-##### Backend
+##### [Backend](https://github.com/magraul/AnimeTimeBackend/tree/main/animetimebackend)
     - SpringBoot Application
     - REST API
     - JWT Authentication
@@ -218,14 +218,14 @@
     - Hosting images
     - Push notifications
     - Machine learning model integration
-##### Machine Learning project
+##### [Machine Learning project](https://github.com/magraul/AnimeTimeBackend/tree/main/animeTimeAi)
     - Python
     - Pandas
     - Intelligent Recommender System
     - Collaborative Filtering
     - Matrix factorization
     - Momentum Gradient Descent
-##### Frontend
+##### [Frontend](https://github.com/magraul/AnimeTimeFrontEnd)
     - React
     - Scss
     - Ratings
