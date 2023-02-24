@@ -199,3 +199,37 @@
     - Frontend: Ionic React (TypeScript)
     - Backend: SpringBoot (Java)
     - Persistence: Postgres
+#### Diploma project
+##### Anime Recommender Application
+    - Huge Anine database
+    - Real time chat on anime page
+    - Push notifications (Web socket)
+    - User profile
+    - Watching list
+    - Trending
+    - Ratings
+    - Recommendations
+
+##### Backend
+    - SpringBoot Application
+    - REST API
+    - JWT Authentication
+    - Postgres
+    - Hosting images
+    - Push notifications
+    - Machine learning model integration
+##### Machine Learning project
+    - Python
+    - Pandas
+    - Intelligent Recommender System
+    - Collaborative Filtering
+    - Matrix factorization
+    - Momentum Gradient Descent
+##### Frontend
+    - React
+    - Scss
+    - Ratings
+    - Real time chat
+    - Push notifications
+    - Redux
+
